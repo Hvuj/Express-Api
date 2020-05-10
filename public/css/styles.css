@@ -1,0 +1,26 @@
+.header-view {
+  padding: 20px;
+  background-color: rgb(55, 233, 233);
+  font-size: 24px;
+  height: 15vh;
+}
+
+.centerer {
+  position: absolute;
+  left: 48.6vw;
+  top: 5vh;
+}
+
+.main-view {
+  background-color: rgba(245, 245, 245, 0.5);
+  height: 85vh;
+}
+
+.footer-view {
+  background-color: rgb(55, 233, 233);
+  width: 50vw;
+  height: 15vh;
+  position: absolute;
+  left: 25vw;
+  bottom: 0;
+}
